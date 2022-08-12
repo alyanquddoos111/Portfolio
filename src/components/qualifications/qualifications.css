@@ -1,6 +1,12 @@
 .quali-text {
-    font-size: 20px;
+    margin: 0 auto;
+    font-size: 30px;
+    font-family: 'Open Sans Condensed';
+    font-weight: 500;
+    color: var(--color-pri);
+    font-size: 30px;
     top: 10px;
+    text-align: center;
 }
 
 .qualifications-container {
@@ -42,6 +48,7 @@
     font-size: 20px;
     text-transform: uppercase;
     margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 .qualifications-container .qualification .content.html {
@@ -86,7 +93,7 @@
         display: flex;
         justify-content: flex-start;
         align-items: center;
-        height: 80%;
+        height: 100%;
         width: 98%;
         overflow-x: scroll;
         overflow-y: hidden;
@@ -95,7 +102,7 @@
     .qualifications-container .qualification {
         position: relative;
         height: 80%;
-        min-width: 95%;
+        min-width: 50%;
         background-color: rgb(9, 6, 31);
         border-radius: 20px;
         margin: 0 30px 0 0;
@@ -117,6 +124,7 @@
         text-transform: uppercase;
         margin-top: 20px;
         font-weight: 200;
+        margin-bottom: 10px;
     }
 }
 
@@ -140,7 +148,7 @@
     .qualifications-container .qualification {
         position: relative;
         height: 80%;
-        min-width: 95%;
+        min-width: 50%;
         background-color: rgb(9, 6, 31);
         border-radius: 20px;
         margin: 0 40px 0 0;
@@ -185,7 +193,7 @@
     .qualifications-container .qualification {
         position: relative;
         height: 80%;
-        min-width: 98%;
+        min-width: 50%;
         background-color: rgb(9, 6, 31);
         border-radius: 20px;
         margin: 0 40px 0 0;
@@ -231,7 +239,7 @@
     .qualifications-container .qualification {
         position: relative;
         height: 80%;
-        min-width: 90%;
+        min-width: 50%;
         background-color: rgb(9, 6, 31);
         border-radius: 20px;
         margin: 0 20px 0 0;
@@ -277,7 +285,7 @@
     .qualifications-container .qualification {
         position: relative;
         height: 95%;
-        min-width: 90%;
+        min-width: 60%;
         background-color: rgb(9, 6, 31);
         border-radius: 20px;
         margin: 0 20px 0 0;

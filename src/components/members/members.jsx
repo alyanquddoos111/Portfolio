@@ -7,7 +7,7 @@ const Members = () => {
       <div className="member member-1">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">Travel Photography Webwite</h1>
+          <h1 className="name">Travel Photography Website</h1>
           <h3 className="position">React.js</h3>
           <h4 className="about">
             A responsive website for Photographers who like to travel around.
@@ -15,8 +15,9 @@ const Members = () => {
             React Hooks and React Routers.
           </h4>
           <a href="#contact" className="contact-member">
-            <span>Github Link</span>
-          </a>
+              <span>Github Link</span>
+            </a>
+          
         </div>
       </div>
 

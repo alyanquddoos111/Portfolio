@@ -45,6 +45,7 @@
     margin-left: 50px;
     font-family: "Open Sans Condensed";
     max-width: 50%;
+    max-height: fit-content;
 }
 
 .members-container .member .member-info .name {
@@ -69,9 +70,9 @@
     background-color: var(--color-sec-light);
     padding: 17px 35px;
     font-size: 18px;
-    margin-top: 50px;
+    margin-top: 10px;
     border-radius: 50px;
-    position: absolute;
+    float: left;
     transition: 0.1s ease;
 }
 
@@ -148,8 +149,7 @@
         font-size: 25px;
         border-radius: 50px;
         transition: 0.1s ease;
-        position: absolute;
-        top: -55px;
+        position: relative;
         right: 10px;
     }
 }
@@ -192,6 +192,7 @@
         font-family: "Open Sans Condensed";
         max-width: 80%;
         display: flex;
+        max-height: fit-content;
         flex-direction: column;
         justify-content: center;
         align-items: flex-start;
@@ -217,8 +218,7 @@
         font-size: 15px;
         border-radius: 50px;
         transition: 0.1s ease;
-        position: absolute;
-        top: -55px;
+        position: relative;
         right: 10px;
     }
 }
@@ -286,8 +286,7 @@
         font-size: 15px;
         border-radius: 50px;
         transition: 0.1s ease;
-        position: absolute;
-        top: -55px;
+        position: relative;
         right: 10px;
     }
 }
@@ -356,8 +355,7 @@
         font-size: 15px;
         border-radius: 50px;
         transition: 0.1s ease;
-        position: absolute;
-        top: -55px;
+        position: relative;
         right: 10px;
     }
 }
@@ -426,8 +424,7 @@
         font-size: 15px;
         border-radius: 50px;
         transition: 0.1s ease;
-        position: absolute;
-        top: -55px;
+        position: relative;
         right: 5px;
     }
 }
