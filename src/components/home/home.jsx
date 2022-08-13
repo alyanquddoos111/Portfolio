@@ -21,12 +21,7 @@ function Home() {
         <img src={ProfilePic} alt='' />
       </div>
 
-      <a href='#footer' className='scroll-down'>
-        <hr />
-        <h5>scroll down</h5>
-        <BsMouse className='scroll' />
-        <hr />
-      </a>
+      
 
       <h2>
         <span>About Me</span> <br />
