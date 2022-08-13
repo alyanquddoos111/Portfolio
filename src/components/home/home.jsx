@@ -31,9 +31,7 @@ function Home() {
       <h2>
         <span>About Me</span> <br />
         <p>
-          We are the well renounced and famous prestigious firm
-          who has historically built trust of many great companies and
-          institutions through our serious front-end services
+        Meticulous web developer with over 2 years of front end experience and passion for responsive website design. PSEB certified. Seeking new opportunities in order to polish my skills.
         </p>
       </h2>
 

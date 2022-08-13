@@ -10,7 +10,6 @@ function Footer() {
   return (
     <div id="footer" className="container footer-container">
       <h1>
-        That's all :) {" "}
         <a href="#home">
           <h2>
             <BsMouse /> - scroll up -

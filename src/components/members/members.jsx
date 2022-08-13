@@ -14,7 +14,7 @@ const Members = () => {
             Website was created through REACT Javascript using
             React Hooks and React Routers.
           </h4>
-          <a href="#contact" className="contact-member">
+          <a href="https://github.com/alyanquddoos111/Photogee" className="contact-member">
               <span>Github Link</span>
             </a>
           
@@ -32,7 +32,7 @@ const Members = () => {
             write and read blogs while users nly have access to reading the blogs. Admin panel is there to 
             overview the editors and the users.
           </h4>
-          <a href="#contact" className="contact-member">
+          <a href="https://github.com/alyanquddoos111/AirTimes" className="contact-member">
             <span>Github Link</span>
           </a>
         </div>
@@ -50,7 +50,7 @@ const Members = () => {
             over the database i.e. adding, deleting, updating and reading
             student's information over the portal.
           </h4>
-          <a href="#contact" className="contact-member">
+          <a href="https://github.com/alyanquddoos111/Student-Registeration" className="contact-member">
             <span>Github Link</span>
           </a>
         </div>
