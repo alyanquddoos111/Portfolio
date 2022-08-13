@@ -1,10 +1,11 @@
 .member-txt {
+    margin: 0 auto;
     font-size: 30px;
-    font-style: oblique;
+    font-family: 'Open Sans Condensed';
+    font-weight: 500;
+    color: var(--color-pri);
+    font-size: 30px;
     top: 10px;
-    bottom: 1px;
-    font-weight: 100;
-    align-self: center;
 }
 
 .members-container {
