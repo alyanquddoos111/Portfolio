@@ -5,6 +5,10 @@ const Qualifications = () => {
     <div>
       <h1 className="quali-text">My Area Of Work</h1>
       <div className="qualifications-container">
+      <div className="qualification">
+          <div className="content react"></div>
+          <h1>React</h1>
+        </div>
         <div className="qualification">
           <div className="content html"></div>
           <h1>html</h1>

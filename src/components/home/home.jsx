@@ -21,8 +21,6 @@ function Home() {
         <img src={ProfilePic} alt='' />
       </div>
 
-      
-
       <h2>
         <span>About Me</span> <br />
         <p>

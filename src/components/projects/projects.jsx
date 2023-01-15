@@ -1,10 +1,29 @@
-import "./members.css";
+import "./projects.css";
 
 const Members = () => {
   return (
     <div id="members" className="container members-container">
       <h1 className="member-txt">Recent Projects</h1>
+
       <div className="member member-1">
+        <div className="member-img"></div>
+        <div className="member-info">
+          <h1 className="name">Syringe Healthcare</h1>
+          <h3 className="position">React.js</h3>
+          <h4 className="about">
+            A responsive website for E-Healthcare System to make sure 
+            that the patients are getting the right medication at the right time.
+            Website was created through REACT Javascript using TailwindCSS.
+          </h4>
+          <a href="https://github.com/alyanquddoos111/Syringe" className="contact-member">
+              <span>Github Link</span>
+            </a>
+          
+        </div>
+      </div>
+
+
+      <div className="member member-2">
         <div className="member-img"></div>
         <div className="member-info">
           <h1 className="name">Travel Photography Website</h1>
@@ -21,7 +40,7 @@ const Members = () => {
         </div>
       </div>
 
-      <div className="member member-2">
+      <div className="member member-3">
         <div className="member-img"></div>
         <div className="member-info">
           <h1 className="name">AirTimes</h1>
@@ -38,23 +57,6 @@ const Members = () => {
         </div>
       </div>
 
-      <div className="member member-3">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">Student Registeration System</h1>
-          <h3 className="position">ASP .Net (Windows Form)</h3>
-          <h4 className="about">
-            Student Registeration System is an Windows Application created
-            by using ASP .Net framework. Backend was developed using the C# 
-            and MySQL database. It allows clients to perform CRUD operations 
-            over the database i.e. adding, deleting, updating and reading
-            student's information over the portal.
-          </h4>
-          <a href="https://github.com/alyanquddoos111/Student-Registeration" className="contact-member">
-            <span>Github Link</span>
-          </a>
-        </div>
-      </div>
     </div>
   );
 };
